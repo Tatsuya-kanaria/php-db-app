@@ -2,7 +2,7 @@
   // $dsn = 'mysql:dbname=php_db_app;host=localhost;charset=utf8mb4';
   // $user = 'root';
   // $password = 'root';
-  $dsn = 'mysql:dbname=heroku_4a205e924ac21db;host=localhost;charset=utf8mb4';
+  $dsn = 'mysql:dbname=heroku_4a205e924ac21db;host=us-cdbr-east-06.cleardb.net;charset=utf8mb4';
   $user = 'bee21303c09490';
   $password = '64e61968';
 
